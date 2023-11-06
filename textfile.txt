@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 This is a simple download file
 
 And this is another commit from a local machine
 
+=======
+This is test file for simple download
+this another refined test file for simple download
+>>>>>>> 2d08374c02442a1d809f48807510c7d876198045
