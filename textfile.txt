@@ -1,1 +1,2 @@
 This is test file for simple download
+this another refined test file for simple download
