@@ -3,6 +3,8 @@ This is a simple download file
 
 And this is another commit from a local machine
 
+I love you all.
+
 =======
 This is test file for simple download
 this another refined test file for simple download
